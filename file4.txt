@@ -1,3 +1,7 @@
 This is something I want to update later
 New line in here
+<<<<<<< HEAD
 adding line to create merge conflict merge conflict will happen
+=======
+adding line to create merge conflict merge conflict will happen
+>>>>>>> master
