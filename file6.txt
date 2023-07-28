@@ -1,3 +1,4 @@
+Adding this new crap.  I'm gonna throw this out the window. 
 I want to add this crap in via cherry pick bc I cannot get this shit to work
 <<<<<<< HEAD
 adding this different line for conflict resolution in file 6
